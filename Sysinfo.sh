@@ -1,3 +1,5 @@
+!#/bin/bash
+
 echo 'Current user signed in: 'whoami
 echo 'Show systemd resource'
 top | grep 'systemd' -m 1
