@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 echo 'Current user signed in: 'whoami
 echo 'Show systemd resource'
